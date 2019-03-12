@@ -1,0 +1,179 @@
+[33mcommit a4969dfb148eb89834137950168ad452328a9162[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: vpachon <vpachon@uhu.es>
+Date:   Tue Mar 12 16:15:25 2019 +0100
+
+    Create README.md
+
+[33mcommit e7c5109f06e78a490d86471147ddb70d86d2d0a4[m
+Merge: cbbe666 7893740
+Author: vpachon <vpachon@uhu.es>
+Date:   Thu Mar 22 16:48:57 2018 +0100
+
+    Merge pull request #2 from viictoor92/victorramirez
+    
+    Capitulo 7 de Victor
+
+[33mcommit cbbe666ed7c80fcae2056d6994756bc2177ec24a[m
+Merge: 8fadde2 7126bb8
+Author: vpachon <vpachon@uhu.es>
+Date:   Thu Mar 22 16:48:44 2018 +0100
+
+    Merge pull request #3 from PergenDeveloper/pergendeveloper
+    
+    Añadido la receta de tortillas
+
+[33mcommit 8fadde2f8b9a1ff3c452db18906f9c6bf521d4ea[m
+Merge: bc6d7c8 09f61b3
+Author: vpachon <vpachon@uhu.es>
+Date:   Thu Mar 22 16:48:29 2018 +0100
+
+    Merge pull request #4 from alejandrovizcaino/receta11
+    
+    anadido receta 11
+
+[33mcommit bc6d7c80d6ce0b82c20cdbbfb15d0c3b3b9a8173[m
+Merge: c40acf5 b6aa05e
+Author: vpachon <vpachon@uhu.es>
+Date:   Thu Mar 22 16:48:18 2018 +0100
+
+    Merge pull request #5 from gmqdev/gmqdev
+    
+    Capitulo 10 - Ensalada de lechugas variadas y aguacate
+
+[33mcommit c40acf531194351e30761719132a8a694223bc83[m
+Merge: 8ead119 0971518
+Author: vpachon <vpachon@uhu.es>
+Date:   Thu Mar 22 16:47:55 2018 +0100
+
+    Merge pull request #6 from rgm93/capitulo2
+    
+    Capitulo2
+
+[33mcommit 8ead119e140421f480d2cf269a60c89faf062e38[m
+Merge: 64861ff 4fb0798
+Author: vpachon <vpachon@uhu.es>
+Date:   Thu Mar 22 16:47:21 2018 +0100
+
+    Merge pull request #7 from antonio-r-f/nuevoscapitulos
+    
+    Capitulo 4 - la pasta
+
+[33mcommit 64861ff6b0e5faf21e89c51c43a86ceffd25fba6[m
+Merge: e41bd1f 03d6f59
+Author: vpachon <vpachon@uhu.es>
+Date:   Thu Mar 22 16:47:06 2018 +0100
+
+    Merge pull request #8 from RexSulivan/nuevaRama
+    
+    kaki gordo
+
+[33mcommit e41bd1f39ad83a23f768e049ef96fc26df0e2bd3[m
+Merge: a76f76e b9675c2
+Author: vpachon <vpachon@uhu.es>
+Date:   Thu Mar 22 16:46:24 2018 +0100
+
+    Merge pull request #9 from retorno147/receta6
+    
+    Capitulo 6 - Puchero
+
+[33mcommit a76f76e2db535bcca2455732c6f5230c4886b92c[m
+Merge: 08a5930 c84e347
+Author: vpachon <vpachon@uhu.es>
+Date:   Thu Mar 22 16:46:05 2018 +0100
+
+    Merge pull request #10 from cintagarridot/ramaRecetas
+    
+    Rama recetas
+
+[33mcommit 08a5930e366739e626489379c24a83686f37f015[m
+Merge: ae9d07e 5a4bbd2
+Author: vpachon <vpachon@uhu.es>
+Date:   Thu Mar 22 16:45:08 2018 +0100
+
+    Merge pull request #1 from anamorales13/recetas
+    
+    Nueva receta otra vez
+
+[33mcommit b9675c27da47dac557f811b193e2522039cb46fb[m
+Author: retorno147 <gonzalo.fernandez494@alu.uhu.es>
+Date:   Thu Mar 22 16:41:00 2018 +0100
+
+    Capitulo 6 - Puchero
+
+[33mcommit c84e347515485d61dc0792e7f5e25310e503a8df[m
+Author: cinta <cinta.garrido@alu.uhu.es>
+Date:   Thu Mar 22 16:40:40 2018 +0100
+
+    recetaNuevaPollo
+
+[33mcommit 03d6f59fcfe0e21ce6d4b052994f6f2e1a3ccf3e[m
+Author: Rafa <rafael.espejo@alu.uhu.es>
+Date:   Thu Mar 22 16:35:56 2018 +0100
+
+    kaki nuevo
+
+[33mcommit 4fb0798d1d7cdda56bdcf2efefc5d2e90fdecad6[m
+Author: Antonio Ruiz Ferrera <antonioruizferrera@gmail.com>
+Date:   Thu Mar 22 16:34:36 2018 +0100
+
+    Rename Capitulo 4 to Capitulo 4 - la pasta
+
+[33mcommit 01a55224d6ca684ad958754fabf355c8111df820[m
+Author: Antonio Ruiz Ferrera <antonioruizferrera@gmail.com>
+Date:   Thu Mar 22 16:33:16 2018 +0100
+
+    Capitulo 4
+
+[33mcommit b6aa05e5474b96d219e7c9a156d564364169046e[m
+Author: gmqdev <gmqdev@gmail.com>
+Date:   Thu Mar 22 16:27:43 2018 +0100
+
+    Capitulo 10 - Ensalada de lechugas variadas y aguacate
+
+[33mcommit 8b5210ef07047c3d28b3ead4182d3bc933f902dc[m
+Author: cinta <cinta.garrido@alu.uhu.es>
+Date:   Thu Mar 22 16:26:56 2018 +0100
+
+    newReceta
+
+[33mcommit 5a4bbd2c53a5a6299125b738c209072be910284a[m
+Author: Ana <maldonado.morales@alu.uhu.es>
+Date:   Thu Mar 22 16:26:51 2018 +0100
+
+    Nueva receta otra vez
+
+[33mcommit 09f61b3b0d31cbbec45b2c602c6d3f4ebe66be22[m
+Author: alejandrovizcaino <alejandro.vizcaino@alu.uhu.es>
+Date:   Thu Mar 22 16:26:33 2018 +0100
+
+    anadido receta 11
+
+[33mcommit 7126bb8c4e591f08eb4d41d86f350fd68f40292f[m
+Author: pergendeveloper <pergendeveloper@gmail.com>
+Date:   Thu Mar 22 16:25:07 2018 +0100
+
+    Añadido la receta de tortillas
+
+[33mcommit 097151840db4334bd2ebf1ddc876439c5d75751b[m
+Author: “rgm93” <“rubengonzalezmembrilla@gmail.com”>
+Date:   Thu Mar 22 16:24:02 2018 +0100
+
+    Capitulo2 insertado
+
+[33mcommit 7893740b3519747e7ca4ec83bb5f43d9a86f4c82[m
+Author: victor <victor.ramirez@alu.uhu.es>
+Date:   Thu Mar 22 16:20:08 2018 +0100
+
+    Capitulo 7 de Victor
+
+[33mcommit ae9d07e5f2fa768a0b143465c4b463851560edbc[m
+Author: vpachon <vpachon@uhu.es>
+Date:   Thu Mar 22 16:10:24 2018 +0100
+
+    Create Capítulo 1 - el pollo
+
+[33mcommit 10a842ba23d6a821483470d0adbd42c9da190bb8[m
+Author: vpachon <vpachon@uhu.es>
+Date:   Thu Mar 22 16:08:50 2018 +0100
+
+    Create README.md
